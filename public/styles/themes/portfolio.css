@@ -1,0 +1,47 @@
+ul.link-list li img {
+  display:table-cell;
+  height:4rem;
+  width:4rem;
+  border-radius:2rem;
+  border:2px solid white;
+  object-fit:cover;
+  vertical-align:middle;
+}
+ul.link-list li {
+  text-align:left;
+}
+div.description {
+  font-weight:bold;
+  color:white;
+  font-size:large;
+  font-style:italic;
+}
+body {
+  background-image: url("https://cdn.glitch.me/097a0da1-1757-4942-ae40-99e5f00c6dd4%2Fwall_back_pixels.jpg?v=1634219537758");
+  background-size:100%;
+}
+div.content {
+  background-color: #000000bb;
+  padding:1rem;
+}
+ul.link-list li span {
+  color:white;
+  font-weight:bold;
+  font-size:large;
+  padding-left:1rem;
+  display:table-cell;
+  vertical-align:middle;
+}
+ul.link-list li:hover span {
+ color:black; 
+}
+img.avatar {
+  border:3px solid white;
+}
+ul.link-list li a:link,
+ul.link-list li a:visited {
+  text-align:left;
+  display:table;
+  width:100%;
+  padding:1rem;
+}
