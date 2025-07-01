@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Your very own link-in-bio app.",
   "main": "server.js",
+  "type":"module",
   "scripts": {
     "start": "vite",
     "build": "vite build",
@@ -17,7 +18,7 @@
     "not dead"
   ],
   "engines": {
-    "node": "16.x"
+    "node": "20.x"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/glitch-in-bio"

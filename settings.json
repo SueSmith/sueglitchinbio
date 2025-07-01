@@ -2,113 +2,113 @@
   "metaTitle": "Sue Smith Links",
   "metaDescription": "👋🏻 Hiya I live in Glasgow and help folk learn to write code - worked at Glitch, Postman, Mozilla, now at Fastly" ,
   "name": "Sue Smith",
-  "avatarImage": "https://cdn.glitch.me/097a0da1-1757-4942-ae40-99e5f00c6dd4%2Fsue-square.jpg?v=1634219467697",
+  "avatarImage": "sue-square.jpg",
   "theme": "portfolio",
   "links": [
     {
       "url":"https://www.changetechnically.fyi/2396236/episodes/16081177-what-really-matters-in-software",
       "text": "Me on the Change, Technically podcast",
-      "img":"https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/changetechnically.jpg?v=1731358298729"
+      "img":"changetechnically.jpg"
     },
     {
       "url": "https://developerrelations.com/developer-education/an-open-framework-for-developer-learning",
       "text": "My DevRelCon talk about learning",
-      "img": "https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/fram.jpg?v=1698412977109"
+      "img": "fram.jpg"
     },
     {
       "url":"https://dev.to/fastly/we-should-still-teach-coding-3cjh", 
       "text":"We should still teach coding", 
-      "img":"https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/Screenshot_20250409_224513_Firefox.jpg?v=1744235187763"
+      "img":"Screenshot_20250409_224513_Firefox.jpg"
     } , 
     {
       "url": "https://blog.glitch.com/post/software-development-isnt-writing-syntax",
       "text": "AI and our understanding of development",
-      "img": "https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/Screenshot_20230618_225720_Firefox~2.jpg?v=1687125618944"
+      "img": "Screenshot_20230618_225720_Firefox~2.jpg"
     },
     {
       "url": "https://dev.to/glitch/what-is-worth-learning-41e3",
       "text": "What is worth learning?",
-      "img": "https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/0vhbje5xcgdkaukqhudk~2.jpg?v=1714077575023"
+      "img": "0vhbje5xcgdkaukqhudk~2.jpg"
     },
     {
       "url": "https://www.youtube.com/watch?v=y145tNGjISg&ab_channel=KinLane%2CTheAPIEvangelist",
       "text": "Me on the API Evangelist podcast",
-      "img": "https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/apievan.jpg?v=1728483737544"
+      "img": "apievan.jpg"
     },
     {
       "url": "https://dev.to/suesmith/lets-talk-about-algorithms-and-social-media-aj3",
       "text":"Algorithms and social media",
-      "img":"https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/machine.jpg?v=1731587217765"
+      "img":"machine.jpg"
     },
     {
       "url": "https://dev.to/suesmith/abstractions-no-not-like-that-3pl3",
       "text": "A blog post about abstractions",
-      "img": "https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/Screenshot%202023-10-27%20at%2011.49.04~3.png?v=1698410875493"
+      "img": "Screenshot%202023-10-27%20at%2011.49.04~3.png"
     },
     {
       "url": "https://dev.to/suesmith/how-i-make-learning-experiences-4ph2",
       "text": "How I make learning experiences",
-      "img": "https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/grange.jpg?v=1727697215681"
+      "img": "grange.jpg"
     },
     {
       "text": "HTTP Keanu - learn about status codes",
       "url": "https://httpkeanu.glitch.me",
-      "img": "https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/keanu-reeves-john-wick~3.jpg?v=1702673827992"
+      "img": "keanu-reeves-john-wick~3.jpg"
     },
     {
       "url": "https://clearmargins.glitch.me/",
       "text": "Clear Margins – my blog about cancer",
-      "img": "https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/clear.jpg?v=1645523041205"
+      "img": "clear.jpg"
     },
     {
       "url": "https://blog.postman.com/how-we-build-learning-experiences-inside-postman/",
       "text": "Building learning experiences at Postman",
-      "img": "https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/postman.jpg?v=1727698143983"
+      "img": "postman.jpg"
     },
     {
       "url": "https://www.codenewbie.org/podcast/what-you-need-to-know-about-apis",
       "text": "Me on the CodeNewbie podcast",
-      "img": "https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/codenewbie.jpg?v=1727698079372"
+      "img": "codenewbie.jpg"
     },
     {
       "url": "https://dev.to/suesmith/learning-as-engagement-infrastructure-314c",
       "text": "Thoughts on learning and engagement",
-      "img": "https://cdn.glitch.me/097a0da1-1757-4942-ae40-99e5f00c6dd4%2Fig4k9nvj7ozvjb6ocytx.jpg?v=1634219386680"
+      "img": "ig4k9nvj7ozvjb6ocytx.jpg"
     },
     {
       "url": "https://developerrelations.com/developer-experience/approaching-developer-education",
       "text": "DX: Approaching developer education",
-      "img": "https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/devrel.jpg?v=1727697959938"
+      "img": "devrel.jpg"
     },
     {
       "url": "https://dev.to/suesmith/a-primer-on-the-reality-of-working-with-apis-as-a-new-developer-ej",
       "text": "Working with APIs as a new developer",
-      "img": "https://cdn.glitch.me/097a0da1-1757-4942-ae40-99e5f00c6dd4%2FScreenshot%202021-10-05%20at%2012.14.30.png?v=1633432493958"
+      "img": "Screenshot 2021-10-05 at 12.14.30.png"
     },
     {
       "url": "https://dev.to/suesmith/safe-to-fail-upwards-2550",
       "text": "Slight rant on tech education and inequality",
-      "img": "https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/youngones.jpg?v=1727697874310"
+      "img": "youngones.jpg"
     },
     {
       "url": "https://dev.to/suesmith/helping-new-coders-contribute-to-open-source-30ig",
       "text": "Helping new coders contribute to open source",
-      "img": "https://cdn.glitch.me/097a0da1-1757-4942-ae40-99e5f00c6dd4%2FScreenshot%202021-10-05%20at%2012.15.33.png?v=1633432550356"
+      "img": "Screenshot 2021-10-05 at 12.15.33.png"
     },
     {
       "url": "https://web.archive.org/web/20151009043118/http://hivenyc.org/2015/09/08/hacking-mozillas-stories-for-local-impact/#expand",
       "text": "Hacking Mozilla stories for local impact",
-      "img": "https://cdn.glitch.global/097a0da1-1757-4942-ae40-99e5f00c6dd4/mozfest.jpg?v=1727697788343"
+      "img": "mozfest.jpg"
     },
     {
       "url": "http://hackaye.com/news/hacking-participation/",
       "text": "Using tech in arts and activist collaboration",
-      "img": "https://cdn.glitch.me/097a0da1-1757-4942-ae40-99e5f00c6dd4%2F13965819.jpg?v=1634219425349"
+      "img": "13965819.jpg"
     },
     {
       "url": "https://www.benormal.info",
       "text": "My website with details of past work",
-      "img": "https://cdn.glitch.com/097a0da1-1757-4942-ae40-99e5f00c6dd4%2Fwall.png?v=1632911417083"
+      "img": "wall.png"
     }
   ],
   "social": {
