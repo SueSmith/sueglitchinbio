@@ -1,5 +1,7 @@
 # Glitch in Bio!
 
+> ⚠️ ***I've migrated this site to Fastly https://suelinks.edgecompute.app***
+
 Your links, your way. A link-in-bio app you can customize any way you want.
 
 🚀 **TL;DR Remix and edit `settings.json` to add your own links!** 🚀
