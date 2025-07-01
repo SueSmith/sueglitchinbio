@@ -1,4 +1,7 @@
 build
 node_modules
 package-lock.json
-compute-js
+compute-js/node_modules 
+compute-js/bin
+compute-js/package
+compute-js/package-lock.json 
