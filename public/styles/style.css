@@ -255,6 +255,11 @@ ul.link-list li a:visited {
   fill: var(--glitch-purple);
 }
 
+.glitch-logo {
+  height:3em;
+  margin-left:1rem;
+}
+
 .video-wrapper__16-9 {
   position: relative;
   width: 100%;
