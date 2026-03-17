@@ -6,6 +6,11 @@
   "theme": "portfolio",
   "links": [
     {
+      "url":"https://www.sue.codes/blog/fingerscode/",
+      "text": "My Monki Gras talk",
+      "img":"monki.jpg"
+    },
+    {
       "url":"https://www.changetechnically.fyi/2396236/episodes/16081177-what-really-matters-in-software",
       "text": "Me on the Change, Technically podcast",
       "img":"changetechnically.jpg"
