@@ -7,7 +7,7 @@
   "links": [
     {
       "url":"https://www.sue.codes/blog/fingerscode/",
-      "text": "My Monki Gras talk",
+      "text": "Monki Gras – Do your fingers remember how to code?",
       "img":"monki.jpg"
     },
     {
@@ -27,7 +27,7 @@
     } , 
     {
       "url": "https://blog.glitch.com/post/software-development-isnt-writing-syntax",
-      "text": "AI and our understanding of development",
+      "text": "Software development isn't writing syntax",
       "img": "Screenshot_20230618_225720_Firefox~2.jpg"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "url": "https://dev.to/suesmith/lets-talk-about-algorithms-and-social-media-aj3",
-      "text":"Algorithms and social media",
+      "text":"On algorithms and social media",
       "img":"machine.jpg"
     },
     {
@@ -77,28 +77,13 @@
     },
     {
       "url": "https://dev.to/suesmith/learning-as-engagement-infrastructure-314c",
-      "text": "Thoughts on learning and engagement",
+      "text": "Learning as engagement infrastructure",
       "img": "ig4k9nvj7ozvjb6ocytx.jpg"
     },
     {
       "url": "https://developerrelations.com/developer-experience/approaching-developer-education",
-      "text": "DX: Approaching developer education",
+      "text": "An intro to developer education",
       "img": "devrel.jpg"
-    },
-    {
-      "url": "https://dev.to/suesmith/a-primer-on-the-reality-of-working-with-apis-as-a-new-developer-ej",
-      "text": "Working with APIs as a new developer",
-      "img": "Screenshot 2021-10-05 at 12.14.30.png"
-    },
-    {
-      "url": "https://dev.to/suesmith/safe-to-fail-upwards-2550",
-      "text": "Slight rant on tech education and inequality",
-      "img": "youngones.jpg"
-    },
-    {
-      "url": "https://dev.to/suesmith/helping-new-coders-contribute-to-open-source-30ig",
-      "text": "Helping new coders contribute to open source",
-      "img": "Screenshot 2021-10-05 at 12.15.33.png"
     },
     {
       "url": "https://web.archive.org/web/20151009043118/http://hivenyc.org/2015/09/08/hacking-mozillas-stories-for-local-impact/#expand",
@@ -109,11 +94,6 @@
       "url": "http://hackaye.com/news/hacking-participation/",
       "text": "Using tech in arts and activist collaboration",
       "img": "13965819.jpg"
-    },
-    {
-      "url": "https://www.benormal.info",
-      "text": "My website with details of past work",
-      "img": "wall.png"
     }
   ],
   "social": {
@@ -132,7 +112,6 @@
     "medium": "",
     "patreon": "",
     "pinterest": "",
-    "twitter": "https://twitter.com/braindeadair",
     "youtube": "",
     "twitch": "",
     "email": "sue@benormal.info"

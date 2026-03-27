@@ -211,7 +211,7 @@ START Hello Links default styles
   border-radius: 50%;
 }
 ul.link-list {
-  margin: 0.5em 0 2.5rem;
+  margin: 0 0 2.5rem;
   padding-left: 0px;
 }
 
